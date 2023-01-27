@@ -1,0 +1,42 @@
+body{
+    background-color:#EBC7E6;
+}
+
+hr {
+    background-color: #F8EDE3;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 3px;
+    width: 5%;
+}
+
+h3 {
+    color: #850000;
+}
+
+
+h1 {
+    color: #850000;
+}
+h4 {
+    color: #850000;
+}
+img:hover{
+    background-color:#F2DEBA;
+}
+/********************class selectors********************/
+
+.xavier1{
+    background-color: #F8EDE3;
+}
+.xavier2{
+    background-color: #F8EDE3;
+}
+.circular{
+    border-radius: 100%;
+}
+/*******************id selectors are more specific**********/
+/***********<h1 id="heading">Xavier</h1> change like this in xavier page
+later use #heading{background-colour:black;}****************/
+
